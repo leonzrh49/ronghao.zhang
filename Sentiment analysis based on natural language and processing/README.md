@@ -1,6 +1,5 @@
 This project is aimed at establishing a user emotion analysis model mainly using convolutional neural networks in the field of computer vision. Through data preprocessing, text digitization, and model parameter composition, the analysis of user emotions is completed. In this topic, I learned about the current status of natural language processing and deep learning at home and abroad, how to clean and digitize original text data, the basic use of deep learning frameworks in python, the meaning of model parameters and debugging, and practical problems How to use programming to implement verification and other aspects of knowledge and skills.
 
-**[This code belongs to the "Implementing a CNN for Text Classification in Tensorflow" blog post.](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
 
 It is slightly simplified implementation of Kim's [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882) paper in Tensorflow.
 
